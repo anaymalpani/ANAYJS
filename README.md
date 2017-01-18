@@ -1,16 +1,16 @@
 [![Build Status](https://travis-ci.org/peers/peerjs-server.png?branch=master)](https://travis-ci.org/peers/peerjs-server)
 
-# AnayServer: A server for PeerJS #
+# PeerServer: A server for PeerJS #
 
 AnayServer helps broker connections between PeerJS clients. Data is not proxied through the server.
 
-##[http://peerjs.com](http://peerjs.com)
+##[http://anaymalpani.com](http://anaymalpani.com)
 
-**If you prefer to use a cloud hosted AnayServer instead of running your own, [sign up for a free API key here](http://peerjs.com/AnayServer)**
+**If you prefer to use a cloud hosted AnayServer instead of running your own, [sign up for a free API key here](http://anaymalpani.com/AnayServer)**
 
 or
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://www.heroku.com/deploy/?template=https://github.com/peers/peerjs-server)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://www.heroku.com/deploy/?template=https://github.com/anaymalpani/anayjs)
 
 ### Run AnayServer
 
@@ -113,6 +113,6 @@ server.on('disconnect', function(id) { ... });
 ## Problems?
 
 Discuss PeerJS on our Google Group:
-https://groups.google.com/forum/?fromgroups#!forum/peerjs
+https://groups.google.com/forum/?fromgroups#!forum/anaymalpani
 
 Please post any bugs as a Github issue.
