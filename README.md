@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/peers/peerjs-server.png?branch=master)](https://travis-ci.org/peers/peerjs-server)
 
-# PeerServer: A server for PeerJS #
+# PeerServer: A server for AnayJS #
 
 AnayServer helps broker connections between PeerJS clients. Data is not proxied through the server.
 
